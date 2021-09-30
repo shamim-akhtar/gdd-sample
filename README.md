@@ -1,4 +1,5 @@
 # Main Title
+![](https://img.shields.io/badge/Unity-2021.1.2-green) ![C#](https://img.shields.io/badge/%20-C%23-blue) ![Visitors](https://visitor-badge.glitch.me/badge?page_id=gdd-sample.visitor-badge) 
 
 ![My Image](https://github.com/shamim-akhtar/gdd-sample/blob/main/MicrosoftTeams-image.png)
 
